@@ -1,0 +1,13 @@
+[{
+    "question": "A flashing red traffic light signifies that a driver should do what?",
+    "option" : ["stop","speed up","proceed with caution","honk the horn"],
+    "answer": "stop"
+  }, {
+    "question": "A knish is traditionally stuffed with what filling?",
+    "option" : ["potato","creamed corn","lemon custard","raspberry jelly"],
+    "answer": "potato"
+  }, {
+    "question": "A pita is a type of what?",
+    "option" : ["fresh fruit","flat bread","French tart","friend bean dip"],
+    "answer": "flat bread"
+}]
